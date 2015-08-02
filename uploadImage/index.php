@@ -4,7 +4,7 @@
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 <form >
     Select image to upload:
-    <input type="file" name="fileUpload" id="fileUpload"><br />
+    <input type="file" name="fileUpload" id="fileUpload">
     <input type="submit" value="Upload Image" name="submit">
 </form>
 
